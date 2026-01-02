@@ -1,0 +1,8 @@
+{
+  "name": "CyberONE Messenger & Finance",
+  "description": "A secure web-messenger and virtual currency platform featuring the CyberONE (Kiberone) currency, multi-level commission roles, and advanced security monitoring.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
